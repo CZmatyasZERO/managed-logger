@@ -1,4 +1,4 @@
-<img align="center" width="100px" height="100px" src="https://raw.githubusercontent.com/CZmatyasZERO/managed-logger/main/logo.svg" alt="logo">
+<img align="center" width="100px" height="100px" src="https://raw.githubusercontent.com/CZmatyasZERO/managed-logger/master/logo.svg" alt="logo">
 <h1>managed-logger</h1>
 <span>
     <img src="https://shields.io/npm/v/managed-logger" alt="version"><img src="https://img.shields.io/bundlephobia/min/managed-logger" alt="version">
