@@ -1,0 +1,33 @@
+{
+  "name": "managed-logger",
+  "description": "log that have inbuild log output",
+  "version": "1.0.0",
+  "author": "Matyáš Klimeš",
+  "bugs": {
+    "url": "https://github.com/standard/standard/issues"
+  },
+  "dependencies": {
+    "colors": "^1.4.0",
+    "fs": "^0.0.1-security"
+  },
+  "engines": {},
+  "keywords": [
+    "log",
+    "logging",
+    "bug",
+    "debug",
+    "debugging",
+    "audit"
+  ],
+  "typings": "index.d.ts",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/CZmatyasZERO/managed-logger.git"
+  },
+  "scripts": {
+    "test": "node test/check.js",
+    "run": "node lib/index.js"
+  }
+}
