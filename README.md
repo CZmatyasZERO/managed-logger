@@ -13,10 +13,11 @@ $ npm install managed-logger
 
 <h2>Loggers</h2>
 
-|Function|Description|
+|object|Description|
 |--------|-----------|
 |basicLogger()|Can print to console or .log file. Classic style of log message. Level, time, author, message|
 |JSONLogger()|Prints into .json file. Adding objects to an array. Custom query + added timestamp.|
 |multiLogger()|Have two outputs. To JSON output added level, author and message information|
+|zeroLog|auto-created log for integration with supported modules|
 
 More details is described in typescript declarations.
